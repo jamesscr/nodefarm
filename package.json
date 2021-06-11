@@ -1,0 +1,19 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "Node js learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesscr/nodefarm.git"
+  },
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesscr/nodefarm/issues"
+  },
+  "homepage": "https://github.com/jamesscr/nodefarm#readme"
+}
